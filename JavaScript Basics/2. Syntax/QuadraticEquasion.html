@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script>
+// "A negative boy was thinking yes or no about going to a party,
+// at the party he talked to a square boy but not to the 4 awesome chicks.
+//        It was all over at 2 am."
+// x = ( -b +- sqrt(b^2-4ac) ) / 2a
+
+var a = prompt("a = ");
+var b = prompt("b = ");
+var c = prompt("c = ");
+
+var det = (b*b) - (4*a*c);
+
+var x1 = ((-b) + Math.sqrt(det))/(2*a);
+var x2 = ((-b) - Math.sqrt(det))/(2*a);
+
+//document.write("DET = " + det + "<br>" + "X1 = " + x1 + "<br>" + "X2 = " + x2);
+document.write(a + "x^2" + " + " + b + "x + " + c + " has roots: " + "<br>");
+document.write("x1 = " + x1 + "<br>x2 = " + x2);
+
+</script>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>clock</title>
+    <script>
+        setInterval(clock, 1000); //this is added outside of the function
+
+        function clock(){
+            var datetime = new Date();
+            var hour = datetime.getHours();
+            var min = datetime.getMinutes();
+            var sec = datetime.getSeconds();
+
+            // formatting in hh:mm:ss;
+            if (hour < 10) {hour = "0" + hour};
+            if (min < 10) {min = "0" + min};
+            if (sec < 10) {sec = "0" + sec};
+
+            var printClock = document.getElementById('clock') //uses the id of the element where it will be located. In this case the text input type
+            printClock.value = hour + ":" + min + ":" + sec; //as value of the text input adds the timer and refreshes it
+        }
+    </script>
+</head>
+<body>
+
+<p> Current ime is: </p>
+<input type="text" id="clock" />
+
+</body>
+</html>

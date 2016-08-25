@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- FUNCTION DEFINE -->
+    <script type="text/javascript">
+        function calcCircleArea(r){
+            var area;
+            area = Math.PI*r*r;
+            return area;
+        }
+    </script>
+</head>
+<body>
+
+<!-- CALL FUNCTION on the screen -->
+<script>
+    document.write("Area with r=7 ...... " + calcCircleArea(7) + "<br>");
+    document.write("Area with r=1.5 ...... " + calcCircleArea(1.5) + "<br>");
+    document.write("Area with r=20 ..... " + calcCircleArea(20) + "<br>");
+</script>
+
+<!-- CALL FUNCTION with buttons -->
+<br>
+<input type="button" value="Area with r = 7"
+       onclick="calcCircleArea(7)">
+
+<input type="button" value="Area with r = 1.5"
+       onclick="calcCircleArea(1.5)">
+
+<input type="button" value="Area with r = 20"
+       onclick="calcCircleArea(20)">
+
+</body>
+</html>
