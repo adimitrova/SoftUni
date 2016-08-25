@@ -1,0 +1,4 @@
+D:\Ani's Documents\Telerik Homeworks\Arrays\12.IndexOfLletters\bin\Debug\12.IndexOfLletters.exe
+D:\Ani's Documents\Telerik Homeworks\Arrays\12.IndexOfLletters\bin\Debug\12.IndexOfLletters.pdb
+D:\Ani's Documents\Telerik Homeworks\Arrays\12.IndexOfLletters\obj\x86\Debug\12.IndexOfLletters.exe
+D:\Ani's Documents\Telerik Homeworks\Arrays\12.IndexOfLletters\obj\x86\Debug\12.IndexOfLletters.pdb

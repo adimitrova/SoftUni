@@ -1,0 +1,4 @@
+D:\Ani's Documents\Telerik Homeworks\Arrays\2.CompareArrays\bin\Debug\2.CompareArrays.exe
+D:\Ani's Documents\Telerik Homeworks\Arrays\2.CompareArrays\bin\Debug\2.CompareArrays.pdb
+D:\Ani's Documents\Telerik Homeworks\Arrays\2.CompareArrays\obj\x86\Debug\2.CompareArrays.exe
+D:\Ani's Documents\Telerik Homeworks\Arrays\2.CompareArrays\obj\x86\Debug\2.CompareArrays.pdb

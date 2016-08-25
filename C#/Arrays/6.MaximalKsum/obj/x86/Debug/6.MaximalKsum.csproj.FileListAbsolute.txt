@@ -1,0 +1,4 @@
+D:\Ani's Documents\Telerik Homeworks\Arrays\6.MaximalKsum\bin\Debug\6.MaximalKsum.exe
+D:\Ani's Documents\Telerik Homeworks\Arrays\6.MaximalKsum\bin\Debug\6.MaximalKsum.pdb
+D:\Ani's Documents\Telerik Homeworks\Arrays\6.MaximalKsum\obj\x86\Debug\6.MaximalKsum.exe
+D:\Ani's Documents\Telerik Homeworks\Arrays\6.MaximalKsum\obj\x86\Debug\6.MaximalKsum.pdb

@@ -1,0 +1,4 @@
+D:\Ani's Documents\Telerik Homeworks\Arrays\10.FindSumInArray\bin\Debug\10.FindSumInArray.exe
+D:\Ani's Documents\Telerik Homeworks\Arrays\10.FindSumInArray\bin\Debug\10.FindSumInArray.pdb
+D:\Ani's Documents\Telerik Homeworks\Arrays\10.FindSumInArray\obj\x86\Debug\10.FindSumInArray.exe
+D:\Ani's Documents\Telerik Homeworks\Arrays\10.FindSumInArray\obj\x86\Debug\10.FindSumInArray.pdb

@@ -1,0 +1,4 @@
+D:\Ani's Documents\Telerik Homeworks\Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.exe
+D:\Ani's Documents\Telerik Homeworks\Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.pdb
+D:\Ani's Documents\Telerik Homeworks\Arrays\15.PrimeNumbers\obj\x86\Debug\15.PrimeNumbers.exe
+D:\Ani's Documents\Telerik Homeworks\Arrays\15.PrimeNumbers\obj\x86\Debug\15.PrimeNumbers.pdb

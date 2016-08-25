@@ -1,0 +1,4 @@
+D:\Ani's Documents\Telerik Homeworks\Arrays\8.MaximalSum\bin\Debug\8.MaximalSum.exe
+D:\Ani's Documents\Telerik Homeworks\Arrays\8.MaximalSum\bin\Debug\8.MaximalSum.pdb
+D:\Ani's Documents\Telerik Homeworks\Arrays\8.MaximalSum\obj\x86\Debug\8.MaximalSum.exe
+D:\Ani's Documents\Telerik Homeworks\Arrays\8.MaximalSum\obj\x86\Debug\8.MaximalSum.pdb

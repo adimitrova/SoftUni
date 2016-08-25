@@ -1,0 +1,4 @@
+D:\Ani's Documents\Telerik Homeworks\Arrays\4.MaximalSequence\bin\Debug\4.MaximalSequence.exe
+D:\Ani's Documents\Telerik Homeworks\Arrays\4.MaximalSequence\bin\Debug\4.MaximalSequence.pdb
+D:\Ani's Documents\Telerik Homeworks\Arrays\4.MaximalSequence\obj\x86\Debug\4.MaximalSequence.exe
+D:\Ani's Documents\Telerik Homeworks\Arrays\4.MaximalSequence\obj\x86\Debug\4.MaximalSequence.pdb

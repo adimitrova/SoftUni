@@ -1,0 +1,4 @@
+D:\Ani's Documents\Telerik Homeworks\Arrays\5.MaximalIncreasingSequence\bin\Debug\5.MaximalIncreasingSequence.exe
+D:\Ani's Documents\Telerik Homeworks\Arrays\5.MaximalIncreasingSequence\bin\Debug\5.MaximalIncreasingSequence.pdb
+D:\Ani's Documents\Telerik Homeworks\Arrays\5.MaximalIncreasingSequence\obj\x86\Debug\5.MaximalIncreasingSequence.exe
+D:\Ani's Documents\Telerik Homeworks\Arrays\5.MaximalIncreasingSequence\obj\x86\Debug\5.MaximalIncreasingSequence.pdb
