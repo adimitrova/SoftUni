@@ -1,5 +1,6 @@
 # SoftUni
+# Telerik
 
-This is repo to upload homeworks from Software University lectures
-https://softuni.bg/
+# This is repo to upload homeworks from Software University AND Telerik lectures
+# https://softuni.bg/ | https://telerikacademy.com/
 
