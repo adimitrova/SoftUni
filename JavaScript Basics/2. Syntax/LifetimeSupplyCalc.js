@@ -1,3 +1,5 @@
+//testing the branch changes
+
 function calcSupply(age, maxAge, food, foodPerDay){
     var yearsLeft = maxAge - age;
     var daysLeft = yearsLeft*365;
