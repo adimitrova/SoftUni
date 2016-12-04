@@ -1,13 +1,16 @@
-/*MADE BY ANELIA DIMITROVA as per Softuni Homework assignment on JS
+/* MADE BY ANELIA DIMITROVA as per Softuni Homework assignment on JS
 BOARD:
 A1 | A2 | A3
 A4 | A5 | A6
 A7 | A8 | A9
 1. Start with player 1 (when clicked, change the image from blank to circle).
-Save redult, disable the cell (to be not clickable anymore), change the player. Do this for all clicked cells and for both players
-2. After each cell is clicked, assign the value of the user to that cell. Player 1 gets 2 points for each clicked cell, player 2 gets 1 point.
+Save redult, disable the cell (to be not clickable anymore), change the player. 
+Do this for all clicked cells and for both players
+2. After each cell is clicked, assign the value of the user to that cell. 
+Player 1 gets 2 points for each clicked cell, player 2 gets 1 point.
     In the end the sum for player 1 will be 6 and for player 2 = 3
-3. Check if winner: sum the cells and assign the value to rows, cols or diagonals. If any of these is = 3, player 2 wins, if = 6, player 1 wins.
+3. Check if winner: sum the cells and assign the value to rows, cols or diagonals. 
+If any of these is = 3, player 2 wins, if = 6, player 1 wins.
 4. Ask user to play again    */
 
 var currentPlayer = true;
