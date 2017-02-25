@@ -13,6 +13,9 @@ Player 1 gets 2 points for each clicked cell, player 2 gets 1 point.
 If any of these is = 3, player 2 wins, if = 6, player 1 wins.
 4. Ask user to play again    */
 
+// (sort of) Working example: http://worldofinspiration.net/tests/js/TicTacToe.html
+// Note: ugly repeating code for beginners
+
 var currentPlayer = true;
 // var player1 = true;
 // var player2 = false;
